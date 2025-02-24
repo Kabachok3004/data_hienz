@@ -1,0 +1,17 @@
+opencv-python
+pillow
+scikit-image
+imageio
+tensorflow
+torch
+keras
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+albumentations
+imgaug
+torchvision
+tqdm
+ultralytics
